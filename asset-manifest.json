@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d65b8ad8.chunk.css",
+    "main.js": "/static/js/main.cbbea40d.chunk.js",
+    "main.js.map": "/static/js/main.cbbea40d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d1594a52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d1594a52.js.map",
+    "static/js/2.afda4660.chunk.js": "/static/js/2.afda4660.chunk.js",
+    "static/js/2.afda4660.chunk.js.map": "/static/js/2.afda4660.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4a9ecd9110ec2971b0a91f3333ab490d.js": "/precache-manifest.4a9ecd9110ec2971b0a91f3333ab490d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d65b8ad8.chunk.css.map": "/static/css/main.d65b8ad8.chunk.css.map",
+    "static/js/2.afda4660.chunk.js.LICENSE.txt": "/static/js/2.afda4660.chunk.js.LICENSE.txt",
+    "static/media/bigdata-pipelines.mp4": "/static/media/bigdata-pipelines.a9b87492.mp4",
+    "static/media/core.mp4": "/static/media/core.45786afe.mp4",
+    "static/media/corelogic.mp4": "/static/media/corelogic.6db00424.mp4",
+    "static/media/disney.mp4": "/static/media/disney.af2df284.mp4",
+    "static/media/education.mp4": "/static/media/education.6f734121.mp4",
+    "static/media/how-did-i-get-first-job.mp4": "/static/media/how-did-i-get-first-job.471c944b.mp4",
+    "static/media/intro.mp4": "/static/media/intro.d2e5e516.mp4",
+    "static/media/leadership.mp4": "/static/media/leadership.c1b7f200.mp4",
+    "static/media/open-source.mp4": "/static/media/open-source.65374868.mp4",
+    "static/media/pair-programming.mp4": "/static/media/pair-programming.eb6a32e2.mp4",
+    "static/media/refactoring.mp4": "/static/media/refactoring.46660b98.mp4",
+    "static/media/side-project.mp4": "/static/media/side-project.282fe168.mp4",
+    "static/media/troubleshooting-scdf.mp4": "/static/media/troubleshooting-scdf.f6e7b2b8.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1594a52.js",
+    "static/js/2.afda4660.chunk.js",
+    "static/css/main.d65b8ad8.chunk.css",
+    "static/js/main.cbbea40d.chunk.js"
+  ]
+}
